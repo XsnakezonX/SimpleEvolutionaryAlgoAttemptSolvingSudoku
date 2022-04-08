@@ -1,4 +1,4 @@
-# Read me for the EA for the sudoku.py script
+# Read me for running the EA sudoku.py script
 
 - Python version: 3.10
 - Python numpy module
